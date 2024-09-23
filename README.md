@@ -1,6 +1,6 @@
 # python-challenge
 
-Michelle Bybee-Moody 
+Michelle Bybee-Moody
 Module 3 Challenge Assignment
 
 Description:
